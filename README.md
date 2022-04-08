@@ -1,6 +1,6 @@
 # PowerBi-Projects
 
-Hello everyone ,
+Hello there ,
 
 I created a dashboard for SpaceX Launches .  Space Exploration Technologies Corp. is an American aerospace manufacturer, a provider of space transportation services, and a communications corporation headquartered in Hawthorne, California.
 
